@@ -7,8 +7,6 @@ I can help you or your business create a website from design concept to a comple
 
 ✅ Pixel-perfect design implementation (usually from Figma/Sketch/XD/Webflow/PSD).
 
-✅ Technically speak English.
-
 ✅ Long-term partner you can always rely on.
 
 ### Preferred Technology:
