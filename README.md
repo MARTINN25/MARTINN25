@@ -1,9 +1,4 @@
 ### Hello! My name is Maksym.
-As CTO of BStern AI, I am at the forefront of innovation, leading the creation of transformative solutions that combine blockchain technology with the power of artificial intelligence. Our mission is to revolutionize the way businesses analyze and use data by providing advanced analytics tools that simplify complex tasks and drive actionable insights.
-
-With over six years of software development experience, I have extensive experience in full-stack development, system architecture, and building scalable infrastructures. My passion lies in solving complex problems and utilizing cutting-edge technologies to create solutions that make a meaningful impact.
-
-At BStern AI, I define our technical vision, lead talented cross-functional teams, and ensure the seamless integration of blockchain and artificial intelligence into our products. I am drawn to the challenge of shaping the future through innovation, fostering collaboration, and creating a culture of excellence where big ideas thrive.
 
 ### Highlights:
 
