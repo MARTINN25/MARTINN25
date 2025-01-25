@@ -30,8 +30,6 @@
 <img src="https://img.shields.io/badge/OPENAI-000000?style=for-the-badge&logo=OpenAI&logoColor=#412991"/> <img src="https://img.shields.io/badge/CHATGPT-000000?style=for-the-badge&logo=OpenAI&logoColor=#412991"/>
 
 
-I also have a strong skill of SEO optimization, web design, photo and video editing, making the web content rich with multimedia.
-
 
 
 
